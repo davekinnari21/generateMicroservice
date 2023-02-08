@@ -1,4 +1,5 @@
-﻿using System;
+//file to generate microservice
+using System;
 using System.IO;  //read write file
 using System.Collections.Generic;
 using System.Globalization;  //for getting TextInfo
